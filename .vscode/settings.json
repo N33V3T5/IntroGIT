@@ -1,8 +1,0 @@
-{
-    "editor.tabSize": 2,
-    "window.zoomLevel": 0,
-    "editor.wordWrap": "on",
-    "emmet.includeLanguages": {
-        "javascript":"javascriptreact",
-    }
-}
